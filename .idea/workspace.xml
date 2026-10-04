@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6183756-a804-4cab-9f23-a7d5ea64a35d" name="Changes" comment="3">
+    <list default="true" id="d6183756-a804-4cab-9f23-a7d5ea64a35d" name="Changes" comment="4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iliya.py" beforeDir="false" afterPath="$PROJECT_DIR$/iliya.py" afterDir="false" />
     </list>
@@ -384,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791129558448</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="4">
+      <option name="closed" value="true" />
+      <created>1791133216584</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791133216584</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -423,6 +431,7 @@
     <MESSAGE value="save2" />
     <MESSAGE value="save3" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
 </project>
