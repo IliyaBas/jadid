@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6183756-a804-4cab-9f23-a7d5ea64a35d" name="Changes" comment="save3">
+    <list default="true" id="d6183756-a804-4cab-9f23-a7d5ea64a35d" name="Changes" comment="3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iliya.py" beforeDir="false" afterPath="$PROJECT_DIR$/iliya.py" afterDir="false" />
     </list>
@@ -27,6 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -59,15 +60,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="175c187e-66e8-4e82-8b64-a32b1bf1bb06" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/IliyaBas/python-1.git&quot;,
-    &quot;accountId&quot;: &quot;c0962c9a-82d0-4319-82c8-04f5281a55f0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IliyaBas/jadid.git",
+    "accountId": "89c09b0d-a54e-4d2f-bb51-3da9229d3199"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -227,8 +225,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.text" />
         <item itemvalue="Python.iliya (1)" />
+        <item itemvalue="Python.text" />
         <item itemvalue="Python.iliya" />
         <item itemvalue="Python.hads adad" />
         <item itemvalue="Python.adad aval" />
@@ -378,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791053127680</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="3">
+      <option name="closed" value="true" />
+      <created>1791129558448</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1791129558448</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -399,33 +405,11 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="061c5eb6-e7f6-45ee-abfd-a19d3328d708" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="061c5eb6-e7f6-45ee-abfd-a19d3328d708">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -437,8 +421,8 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="save1" />
     <MESSAGE value="save2" />
-    <MESSAGE value="3" />
     <MESSAGE value="save3" />
-    <option name="LAST_COMMIT_MESSAGE" value="save3" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
 </project>
