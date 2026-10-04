@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +43,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1791007206" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1791025271" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1791006586" />
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1791025266" />
                   </RecentBranch>
                 </list>
               </option>
@@ -59,9 +59,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="175c187e-66e8-4e82-8b64-a32b1bf1bb06" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/IliyaBas/Python-practice.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/IliyaBas/python-1.git&quot;,
     &quot;accountId&quot;: &quot;c0962c9a-82d0-4319-82c8-04f5281a55f0&quot;
   }
 }</component>
@@ -78,6 +81,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.HP.executor&quot;: &quot;Run&quot;,
     &quot;Python.adad aval.executor&quot;: &quot;Run&quot;,
@@ -90,11 +94,11 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;937503df&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/SAM-Tech/Desktop/python-1&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -350,7 +354,31 @@
       <option name="project" value="LOCAL" />
       <updated>1791006392222</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="3">
+      <option name="closed" value="true" />
+      <created>1791025127910</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791025127910</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3">
+      <option name="closed" value="true" />
+      <created>1791025168418</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791025168418</updated>
+    </task>
+    <task id="LOCAL-00016" summary="save3">
+      <option name="closed" value="true" />
+      <created>1791053127680</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1791053127680</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -391,7 +419,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -409,6 +437,7 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="save1" />
     <MESSAGE value="save2" />
+    <MESSAGE value="3" />
     <MESSAGE value="save3" />
     <option name="LAST_COMMIT_MESSAGE" value="save3" />
   </component>

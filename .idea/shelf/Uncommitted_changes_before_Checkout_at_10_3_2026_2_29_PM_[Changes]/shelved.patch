@@ -1,0 +1,16 @@
+Index: iliya.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"hello world\")\r\nprint(\"iliya\")\r\nprint(9*9)\r\nprint(1,2,3)\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/iliya.py b/iliya.py
+--- a/iliya.py	(revision cd3fce91b7bf249cae01894c2494e7d2c02e8ddd)
++++ b/iliya.py	(date 1791025143697)
+@@ -1,4 +1,4 @@
+ print("hello world")
+ print("iliya")
+ print(9*9)
+-print(1,2,3)
++print(1,2,4,5)

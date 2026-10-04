@@ -1,3 +1,5 @@
 print("hello world")
 print("iliya")
-print(9*9)
+print(9 * 9)
+print(1, 2, 7, 4, 5)
+print("2322")
